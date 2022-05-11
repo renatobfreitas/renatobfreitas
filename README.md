@@ -3,7 +3,7 @@
 
 </br>
 
-## My Small History
+## My little story
 
 After more than 15 years working in the administrative and commercial sector, reaching management and project leader positions, after all this experience and 20 years after my first code, I decided to do what I really love, programming and creating solutions.
 
