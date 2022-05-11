@@ -20,12 +20,6 @@
     
 </div></br>
 
-## My public repositories: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatobfreitas&repo=HTML-CSS)](https://github.com/renatobfreitas/HTML-CSS)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=renatobfreitas&repo=JavaScript)](https://github.com/renatobfreitas/JavaScript)
-
 </br>
 
 ![Dev RenatoFreitas GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobfreitas&show_icons=true&theme=radical)
@@ -36,3 +30,4 @@
 
 After more than 15 years working in the administrative and commercial sector, reaching management and project leader positions, after all this experience and 20 years after my first code, I decided to do what I really love, programming and creating solutions.
 
+## My public repositories: 
