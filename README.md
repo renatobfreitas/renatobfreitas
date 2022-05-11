@@ -3,6 +3,12 @@
 
 </br>
 
+## My Small History
+
+After more than 15 years working in the administrative and commercial sector, reaching management and project leader positions, after all this experience and 20 years after my first code, I decided to do what I really love, programming and creating solutions.
+
+</br>
+
 [![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-freitas-90b6194a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatofreitas01/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Renatobfreitas)
@@ -26,8 +32,6 @@
 
 </br>
 
-## History
 
-After more than 15 years working in the administrative and commercial sector, reaching management and project leader positions, after all this experience and 20 years after my first code, I decided to do what I really love, programming and creating solutions.
 
-## My public repositories: 
+
