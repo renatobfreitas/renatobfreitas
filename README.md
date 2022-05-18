@@ -27,11 +27,3 @@ After more than 15 years working in the administrative and commercial sector, re
 </div></br>
 
 </br>
-
-![Dev RenatoFreitas GitHub stats](https://github-readme-stats.vercel.app/api?username=renatobfreitas&show_icons=true&theme=radical)
-
-</br>
-
-
-
-
