@@ -1,30 +1,67 @@
 
-### Hi! My name is Renato Freitas. 🤓 ↔️ 💻 ↔️ 📱 ↔️ 😎 
+# 👋 Hi, I'm Renato Freitas
 
-</br>
+💼 Business & Agribusiness Professional  
+💻 Software Developer | AI & Automation Enthusiast  
 
-## My little story
+---
 
-After more than 15 years working in the administrative and commercial sector, reaching management and project leader positions, after all this experience and 20 years after my first code, I decided to do what I really love, programming and creating solutions.
+## 🚀 About Me
 
-</br>
+After more than 15 years working in the administrative and commercial sector — reaching management and project leadership roles — I decided to fully transition into what I truly enjoy: **building solutions through technology**.
 
-[![Link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-freitas-90b6194a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatofreitas01/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Renatobfreitas)
+Today, I focus on developing **real-world applications** that combine:
+- Artificial Intelligence  
+- Automation  
+- Data-driven decision making  
 
-</br>
+My goal is to create scalable solutions that generate value for businesses and people.
 
-## Technologies I use and learn:
+---
+
+## 🔥 What I'm Working On
+
+- 🤖 AI-powered applications  
+- 📊 Business and data-driven systems  
+- ⚙️ Automation tools  
+- 📱 Mobile apps (Flutter)
+
+---
+
+## 🛠 Tech Stack
 
 <div style="display: inline_block;"><br/>
-    <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img aling="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img aling="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-    <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    
-</div></br>
 
-</br>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img align="center" alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced AI integration in applications  
+- Scalable system architecture  
+- Real-time data processing  
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-freitas-90b6194a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renatofreitas01/)
+
+---
+
+## 💡 Vision
+
+I believe technology should solve real problems.
+
+I'm building my path to create a **technology-driven business**, combining my experience in business with software development to generate scalable impact.
+
+---
